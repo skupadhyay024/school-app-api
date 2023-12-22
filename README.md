@@ -1,2 +1,2 @@
-# school-app-api
-School app api
+# recipe-app-api
+recipe api
